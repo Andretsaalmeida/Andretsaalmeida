@@ -5,7 +5,7 @@ My name is Andrezza Almeida.
 <h3>About me</h3>
 
 - 🤔 Exploring new technologies and developing software solutions.
-- 🎓 Studying **SYSTEMS ANALYSIS AND DEVELOPMENT** at <a href="https://www.iesp.edu.br/cursos/graduacao">UNIESP/PB</a>.
+- 🎓 **SYSTEMS ANALYSIS AND DEVELOPMENT** at <a href="https://www.iesp.edu.br/cursos/graduacao">UNIESP/PB</a>.
 - 💼 I'm not working at the moment.
 - 🌱 Learning more about **JAVA AND DATABASE**.
   
